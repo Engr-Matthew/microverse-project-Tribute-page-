@@ -1,0 +1,52 @@
+body,
+html {
+  display: flex;
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  /* justify-content: center; */
+  text-align: center;
+  background-color: lavender;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.main {
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* text-align: center; */
+}
+
+.img-div {
+  width: 97vw;
+  height: 70vh;
+  align-self: center;
+  background-color: white;
+  padding-top: 2%;
+}
+
+.img {
+  width: 70%;
+  height: 90%;
+}
+
+.lines {
+  list-style: disc;
+  text-align: -webkit-match-parent;
+  display: list-item;
+  margin: 0 auto;
+  justify-content: start;
+  font-size: 1.2rem.;
+}
+
+.description-container {
+  /* display: flex; */
+  text-align: left;
+  padding-left: 25vw;
+  padding-right: 25vw;
+  line-height: 2.2rem;
+}
+
+.description {
+}
